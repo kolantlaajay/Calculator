@@ -1,0 +1,34 @@
+New features in .Net core 3.0
+
+1)The .NET Core 3.0 supports C# 8, and the new features in C# 8.0 include Nullable reference types, Async streams, Ranges and indices, and Switch expressions.
+
+2).NET platform dependant intrinsics:APIs have been added that allow access to certain perf-oriented CPU instructions, such as the SIMD or Bit Manipulation instruction sets. These instructions can help achieve significant performance improvements in certain scenarios, such as processing data efficiently in parallel.
+
+3)Default executables:.NET Core come up with default executable to build framework-dependent executables. It uses a globally installed version of .NET Core which is new for application users.
+
+4)Fast built-in JSON support:The new built-in JSON support is low allocation, high-performance, and based on Span<byte>. To .NET Core 3.0, three new main JSON-related types have been added.
+
+5)Crptography:New support has been added for AES-CCM and AES-GCM ciphers, implemented via System.Security.Cryptography.AesGcm and System.Security.Cryptography.AesCcm.
+
+
+
+
+
+
+
+Differences between .Net core and .net framework
+
+1)Application Models: .NET Framework and .NET Core differs from each other in the category of application models. The application model of .NET Framework includes Windows Forms, ASP.NET, and Windows Presentation Foundation (WPF). On the other hand, the application model of .NET Core includes ASP.NET Core and Windows Universal Apps.
+
+2)Cross-Platform: .NET Framework enabled developers to build applications for a single platform — Windows. But .NET Core is cross-platform, and supports three distinct operating systems — Windows, OS X, and Linux. The compatibility makes it easier for developers to build cross-platform applications, and port their existing applications from one platform to another.
+
+3)Modular Collection of Libraries: Both .NET Framework and .NET Core allows developers to take advantage of robust class libraries. But .NET Core uses a redesigned common language runtime called CoreCLR, and features a modular collection of libraries called CoreFX. Hence, the developers have option to pick and use only the libraries required by each application, and enhance the application’s performance by removing unnecessary libraries.
+
+4)ASP.NET: While using web applications with .NET Framework, the developers have option to use a robust web application framework like ASP.NET. But .NET Core comes with a redesigned version of ASP.NET. The developers can now use ASP.NET Core to build both web and cloud applications. In addition to being open source, ASP.NET Core is also available on three distinct platforms — Windows, OS X, and Linux
+
+5)Mobile App Development: .NET Framework does not include any robust framework or tools to simplify mobile app development. But .NET Core compatible with Xamarin through the .NET Standard Library. Hence, developers can take advantage of Xamarin to write cross-platform mobile apps in C# with a shared code base and same set of APIs. They can further use the tools provided by Xamarin to customize the mobile app for individual mobile platforms like iOS, Android and Windows Phone.
+
+6)Microservices: Unlike .NET Framework, .NET Core makes it easier for developers to build microservice oriented systems rapidly. As such systems include a number of independent and dynamic microservices, the developers have to focus on individual microservices. .NET Core enables programmers to develop custom microservices by using varying programming languages, technologies and frameworks. Also, the developers can build a robust system by combining multiple microservices seamlessly.
+
+7)Compatibility: .NET Core does not support all the features and functionalities provided by the latest version of .NET Framework. But it can be used as a subset of the .NET Framework. Also, .NET Core is still compatible with .NET Framework through the .NET Standard Library. Hence, the developers can still run the applications developed with .NET Framework after upgrading to .NET Core.
+

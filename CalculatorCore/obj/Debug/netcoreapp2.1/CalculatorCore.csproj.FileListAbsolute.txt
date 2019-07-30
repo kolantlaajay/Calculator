@@ -1,0 +1,14 @@
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\bin\Debug\netcoreapp2.1\CalculatorCore.deps.json
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\bin\Debug\netcoreapp2.1\CalculatorCore.runtimeconfig.json
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\bin\Debug\netcoreapp2.1\CalculatorCore.runtimeconfig.dev.json
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\bin\Debug\netcoreapp2.1\CalculatorCore.dll
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\bin\Debug\netcoreapp2.1\CalculatorCore.pdb
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\obj\Debug\netcoreapp2.1\CalculatorCore.csprojAssemblyReference.cache
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\obj\Debug\netcoreapp2.1\CalculatorCore.csproj.CoreCompileInputs.cache
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\obj\Debug\netcoreapp2.1\CalculatorCore.AssemblyInfoInputs.cache
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\obj\Debug\netcoreapp2.1\CalculatorCore.AssemblyInfo.cs
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\obj\Debug\netcoreapp2.1\CalculatorCore.dll
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\obj\Debug\netcoreapp2.1\CalculatorCore.pdb
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\bin\Debug\netcoreapp2.1\GenericCalculator.dll
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\bin\Debug\netcoreapp2.1\GenericCalculator.pdb
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorCore\obj\Debug\netcoreapp2.1\CalculatorCore.csproj.CopyComplete

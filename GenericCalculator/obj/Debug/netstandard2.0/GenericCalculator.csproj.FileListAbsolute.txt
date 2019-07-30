@@ -1,0 +1,9 @@
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\GenericCalculator\obj\Debug\netstandard2.0\GenericCalculator.csprojAssemblyReference.cache
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\GenericCalculator\obj\Debug\netstandard2.0\GenericCalculator.csproj.CoreCompileInputs.cache
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\GenericCalculator\obj\Debug\netstandard2.0\GenericCalculator.AssemblyInfoInputs.cache
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\GenericCalculator\obj\Debug\netstandard2.0\GenericCalculator.AssemblyInfo.cs
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\GenericCalculator\bin\Debug\netstandard2.0\GenericCalculator.deps.json
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\GenericCalculator\bin\Debug\netstandard2.0\GenericCalculator.dll
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\GenericCalculator\bin\Debug\netstandard2.0\GenericCalculator.pdb
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\GenericCalculator\obj\Debug\netstandard2.0\GenericCalculator.dll
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\GenericCalculator\obj\Debug\netstandard2.0\GenericCalculator.pdb

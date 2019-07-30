@@ -1,0 +1,10 @@
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorStandard\bin\Debug\CalculatorStandard.exe.config
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorStandard\bin\Debug\CalculatorStandard.exe
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorStandard\bin\Debug\CalculatorStandard.pdb
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorStandard\bin\Debug\GenericCalculator.dll
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorStandard\bin\Debug\GenericCalculator.pdb
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorStandard\obj\Debug\CalculatorStandard.csprojAssemblyReference.cache
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorStandard\obj\Debug\CalculatorStandard.csproj.CoreCompileInputs.cache
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorStandard\obj\Debug\CalculatorStandard.csproj.CopyComplete
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorStandard\obj\Debug\CalculatorStandard.exe
+C:\thermo\inheritanceApp\inheritanceApp\GenericCalculator\CalculatorStandard\obj\Debug\CalculatorStandard.pdb
